@@ -9,6 +9,7 @@ body {
 
 }
 .card{
+    margin: 10px;
     padding: 40px;
     border-radius: 15px;
     justify-content: center;
@@ -59,6 +60,7 @@ body {
     width: 100%;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
     
 }
 
